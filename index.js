@@ -14,7 +14,7 @@ function introduceMe (personObj){
     let home = meObj.hometown
     let color = meObj.favoriteColors
     // print out: "Hi, my name is {your name}, and I'm from {your hometown}"
-    return `Hi my name is ${me}, and I'm from ${home} \n My favorite colors are ${color}`
+    return `Hi my name is ${me}, and I'm from ${home}\n My favorite colors are ${color}`
     // print out: "My favorite colors are {your favorite colors}"
 
 };
