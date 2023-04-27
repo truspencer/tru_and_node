@@ -5,7 +5,7 @@ console.log("Hey you! Yeah you! Awesome Developer! You're doing Great Fam! ðŸ’ªð
 const meObj = {
     name: "Tru",
     hometown: "BROOKLYN!!!",
-    favoriteColors: ["purple ", " aqua blue ", " gold ", " burgandy"]
+    favoriteColors: ["purple", " aqua blue", " gold", " burgandy"]
 }
 
 
